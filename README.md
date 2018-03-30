@@ -5,7 +5,9 @@ Quantitative Exposure Domain
 [US EPA Website](https://qed.epa.gov) (qeduser : EcoDom18!PubServ3)
 
 QED is an active open-source development project of the U.S. EPA Computational Exposure Division
-that consists of a variety of web-based applications that support USEPA activities.
+that consists of a variety of web-based applications that support USEPA activities. Information on
+the technology stack and details of the implementation can be found on the 
+[wiki](https://github.com/quanted/qed/wiki)
 
 ### Repository Framework
 The QED Git repository is organized with each official public release stored as a branch on the public 
